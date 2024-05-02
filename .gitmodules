@@ -1,0 +1,3 @@
+[submodule "goblang"]
+	path = goblang
+	url = https://github.com/Mequam/goblang.git

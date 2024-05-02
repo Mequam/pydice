@@ -1,9 +1,9 @@
 #!/bin/python
 
 #for language parsing
-from goblang.read_lang import LanguageMap
-from goblang.read_lang import GrammerNode
-from goblang.read_lang import hide_parenthasis
+from .goblang.read_lang import LanguageMap
+from .goblang.read_lang import GrammerNode
+from .goblang.read_lang import hide_parenthasis
 
 #for typing
 from samgob.iterators.control_flow_iterator import ControlFlowIterator
