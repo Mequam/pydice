@@ -1,8 +1,13 @@
-# Pydice
+# SamGob
 
-pydice is a simple script for parsing the pydice programming language!
+## Samon Goblin
 
-pydice is a small language designed to be run in a terminal environment and concisely roll dice.
+### for all of the dice goblins in the world
+
+
+samgob is a simple script for parsing the pydice programming language!
+
+samgob is a small language designed to be run in a terminal environment and concisely roll dice.
 The idea is to use consice syntax in order to describe complex rolls in simple ways.
 
 as a taste a simple query to generate 100 characters by rolling 4 d 6 dropping the lowest value and re rolling
