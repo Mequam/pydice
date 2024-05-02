@@ -1,9 +1,9 @@
 #!/bin/python
 
 #for language parsing
-from language.read_lang import LanguageMap
-from language.read_lang import GrammerNode
-from language.read_lang import hide_parenthasis
+from pylang.read_lang import LanguageMap
+from pylang.read_lang import GrammerNode
+from pylang.read_lang import hide_parenthasis
 
 #for typing
 from pydice.iterators.control_flow_iterator import ControlFlowIterator
