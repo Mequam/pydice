@@ -1,18 +1,38 @@
-# SamGob
+<!--
+Keep this document short & concise,
+linking to external resources instead of including content in-line.
+See 'release/text/readme.html' for the end user read-me.
+-->
 
-## Samon Goblin
+Blender
+=======
 
-### for all of the dice goblins in the world
+Blender is the free and open source 3D creation suite.
+It supports the entirety of the 3D pipeline-modeling, rigging, animation, simulation, rendering, compositing,
+motion tracking and video editing.
+
+![Blender screenshot](https://code.blender.org/wp-content/uploads/2018/12/springrg.jpg "Blender screenshot")
+
+Project Pages
+-------------
+
+- [Main Website](http://www.blender.org)
+- [Reference Manual](https://docs.blender.org/manual/en/latest/index.html)
+- [User Community](https://www.blender.org/community/)
+
+Development
+-----------
+
+- [Build Instructions](https://developer.blender.org/docs/handbook/building_blender/)
+- [Code Review & Bug Tracker](https://projects.blender.org)
+- [Developer Forum](https://devtalk.blender.org)
+- [Developer Documentation](https://developer.blender.org/docs/)
 
 
-samgob is a simple script for parsing the pydice programming language!
+License
+-------
 
-samgob is a small language designed to be run in a terminal environment and concisely roll dice.
-The idea is to use consice syntax in order to describe complex rolls in simple ways.
+Blender as a whole is licensed under the GNU General Public License, Version 3.
+Individual files may have a different, but compatible license.
 
-as a taste a simple query to generate 100 characters by rolling 4 d 6 dropping the lowest value and re rolling
-ones and twos can be run with the following instructions
-
--100S -6 s3T4D{2-6}
-
-at a future date I should upate this page with more help specs for the language, but for now have this simple example :).
+See [blender.org/about/license](https://www.blender.org/about/license) for details.
